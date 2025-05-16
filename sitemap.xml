@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hymzhao.github.io/hymzhao/index.html</loc>
-    <lastmod>2025-05-16T17:37:35.078Z</lastmod>
+    <loc>https://hymzhao.github.io/hymzhao/presentations.html</loc>
+    <lastmod>2025-05-16T17:51:46.471Z</lastmod>
   </url>
   <url>
     <loc>https://hymzhao.github.io/hymzhao/about.html</loc>
-    <lastmod>2025-05-16T17:37:35.077Z</lastmod>
+    <lastmod>2025-05-16T17:51:46.470Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hymzhao.github.io/hymzhao/index.html</loc>
+    <lastmod>2025-05-16T17:51:46.471Z</lastmod>
   </url>
 </urlset>
