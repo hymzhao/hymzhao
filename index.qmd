@@ -1,5 +1,17 @@
 ---
-title: "hymzhao"
+title: "Hannah Yimei Zhao"
+about:
+  template: trestles
+  image: images/headshot.jpeg
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - text: Resume
+      file: documents/"Hannah Yimei Zhao Resume 042626.pdf"
 ---
 
 This is a Quarto website.
